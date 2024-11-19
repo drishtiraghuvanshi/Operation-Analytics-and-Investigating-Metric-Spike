@@ -5,7 +5,7 @@ One of the key aspects of Operational Analytics is investigating metric spikes. 
 
 # Tasks:
 
-# Jobs Reviewed Over Time:
+## Jobs Reviewed Over Time:
 Objective: Calculate the number of jobs reviewed per hour for each day in November 2020.
 Your Task: Write an SQL query to calculate the number of jobs reviewed per hour for each day in November 2020.
 # Throughput Analysis:
